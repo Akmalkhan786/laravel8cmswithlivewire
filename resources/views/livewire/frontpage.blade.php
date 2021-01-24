@@ -1,3 +1,4 @@
 <div>
-    {{-- Do your work, then step back. --}}
+    <h1>{{ $title }}</h1>
+    <p>{!! $content !!}</p>
 </div>
