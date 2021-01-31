@@ -4,9 +4,8 @@
     <list default="true" id="f8c25849-78b7-40b7-bcb4-c31541316e3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Livewire/Frontpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/Frontpage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/Pages.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/Pages.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/livewire/frontpage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/frontpage.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/livewire/pages.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/pages.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/navigation-menu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/navigation-menu.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,6 +185,10 @@
       <workItem from="1611163600197" duration="9787000" />
       <workItem from="1611252287203" duration="5472000" />
       <workItem from="1611506316023" duration="11217000" />
+      <workItem from="1611598290782" duration="866000" />
+      <workItem from="1611689723669" duration="4110000" />
+      <workItem from="1611768859385" duration="11700000" />
+      <workItem from="1612076493130" duration="1338000" />
     </task>
     <servers />
   </component>
