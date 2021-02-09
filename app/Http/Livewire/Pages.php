@@ -85,7 +85,7 @@ class Pages extends Component
      */
     public function read()
     {
-        return Page::paginate(5);
+        return Page::paginate(10);
     }
 
     /*
